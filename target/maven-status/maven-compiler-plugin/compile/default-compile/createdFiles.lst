@@ -1,0 +1,7 @@
+com\example\claims\config\CorsFilter.class
+com\example\claims\resource\ContractResource.class
+com\example\claims\entity\Contract.class
+com\example\claims\config\ApplicationConfig.class
+com\example\claims\repository\ContractRepository.class
+com\example\claims\resource\HelloResource.class
+com\example\claims\service\ContractService.class
