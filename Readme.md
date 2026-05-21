@@ -105,15 +105,6 @@ POST /api/transactions/transfer
 GET /api/transactions/history/{iban}
 ```
 
-Exemple virement :
-```json
-{
-  "sourceIban": "FR76...",
-  "destinationIban": "FR76...",
-  "amount": 250.00,
-  "description": "Paiement test"
-}
-```
 
 ## Idées d'amélioration pour une banque
 - refresh token
